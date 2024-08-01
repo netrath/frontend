@@ -62,6 +62,10 @@ h1 {
   cursor: pointer;
 }
 
+.filter-section label {
+  margin-right: 20px; /* Add margin to the right of the label */
+}
+
 .details-table {
   margin-bottom: 20px;
 }
@@ -234,5 +238,3 @@ th {
   background-color: #ff4d4d;
   color: white;
 }
-
-
